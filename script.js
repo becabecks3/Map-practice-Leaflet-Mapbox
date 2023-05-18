@@ -1,10 +1,10 @@
 const MAPBOX_API = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}'
 
 const ATTRIBUTION =
-  'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
+  'ACCESS TOKEN';
 // Este token será el que obtengamos en la web de Mapbox
 const ACCESS_TOKEN =
-  'pk.eyJ1IjoicmFkdS1hIiwiYSI6ImNsaHM2aXVoNDJpZmEzbG9kYmVzc24yeTEifQ.g7HhKn-rVtWYe8DMCpctlg';
+  'ACCESS TOKEN';
 
 
 
